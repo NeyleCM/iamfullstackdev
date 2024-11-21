@@ -1,6 +1,9 @@
 # React + nodeJS
 Creando contenido desde REACT
 
+URl= 
+VITE_APP_API_URL='https://back-join-3iw8.onrender.com'
+
 ## Pasos a seguir 
 Seguimos aprovechando el repositorio de back de las `task` que hemos usado para poder añadir tareas desde POSTMAN. Ahora vamos a añadir tareas desde `REACT`
 
